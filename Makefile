@@ -9,3 +9,4 @@ clean-doc:
 
 bundle: clean
 	rm -f project.zip && zip -r project.zip package.json src test circuits artifacts doc Makefile
+modify by C4 branch

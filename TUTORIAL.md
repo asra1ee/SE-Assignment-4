@@ -252,3 +252,4 @@ There is nothing worse for a dev than working with a buggy compiler.  This is a 
 And please contact us for any isue you have. In general, a github issue with a small piece of code with the bug is very useful to us.
 
 Enjoy zero knowledge proving!
+modify by C4 branch
