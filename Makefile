@@ -1,6 +1,5 @@
 clean: clean-npm clean-doc
-	echo "Done"
-
+	echo 
 clean-npm:
 	rm -rf node_modules
 
