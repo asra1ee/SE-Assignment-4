@@ -1,6 +1,6 @@
 # circom and snarkjs tutorial
 
-This tutorial will guide you in creating your first Zero Knowledge zkSnark circuit. It will take you through the various techniques to write circuits, and will show you how to create proofs and verify them off-chain and on-chain on Ethereum.
+This t will guide you in creating your first Zero Knowledge zkSnark circuit. It will take you through the various techniques to write circuits, and will show you how to create proofs and verify them off-chain and on-chain on Ethereum.
 
 ## 1. Installing the tools
 
